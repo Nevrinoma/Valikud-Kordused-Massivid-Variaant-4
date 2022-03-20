@@ -21,11 +21,11 @@ namespace Valikud__Kordused__Massivid_Variaant_4
                 }
                 if (choice == 2)
                 {
-                    funks.Palidrom();
+                    funks.Matrica();
                 }
                 if (choice == 3)
                 {
-                    funks.Palidrom();
+                    funks.Stroka();
                 }
 
             }
